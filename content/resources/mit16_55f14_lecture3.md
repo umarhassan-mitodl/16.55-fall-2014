@@ -4,6 +4,8 @@ description: This resource contains the information regarding More Drifts.
 file: /courses/16-55-ionized-gases-fall-2014/f106e98cca44c61eae775747a5cc4b51_MIT16_55F14_Lecture3.pdf
 file_size: 292970
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

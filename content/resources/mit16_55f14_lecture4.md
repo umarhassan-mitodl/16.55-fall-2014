@@ -4,6 +4,8 @@ description: This resource contains the information regarding Connection to Flui
 file: /courses/16-55-ionized-gases-fall-2014/cf082e13c674a139941a2d841f707f90_MIT16_55F14_Lecture4.pdf
 file_size: 133359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains the information regarding Motion of Charges 
 file: /courses/16-55-ionized-gases-fall-2014/5a4978b63c5462ae7c7233a631f5490f_MIT16_55F14_Lecture2.pdf
 file_size: 731864
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

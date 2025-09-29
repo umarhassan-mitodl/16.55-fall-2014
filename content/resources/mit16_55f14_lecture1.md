@@ -5,6 +5,8 @@ description: This resource contains the information regarding Fundamentals of Pl
 file: /courses/16-55-ionized-gases-fall-2014/a7f71927565607bcd2e0b31b51b162dd_MIT16_55F14_Lecture1.pdf
 file_size: 192129
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

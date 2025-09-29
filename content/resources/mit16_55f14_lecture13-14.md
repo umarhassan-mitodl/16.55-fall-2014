@@ -5,6 +5,8 @@ description: This resource contains the information regarding moments of the Bol
 file: /courses/16-55-ionized-gases-fall-2014/36135fe3ae720921f05df1a46fb5011c_MIT16_55F14_Lecture13-14.pdf
 file_size: 144700
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

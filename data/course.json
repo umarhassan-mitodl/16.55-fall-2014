@@ -24,6 +24,7 @@
     "website": "16-55-ionized-gases-fall-2014"
   },
   "course_title": "Ionized Gases",
+  "hide_download": true,
   "course_description": "This course highlights the properties and behavior of low-temperature plasmas in relation to energy conversion, plasma propulsion, and gas lasers. The course includes material on the equilibrium (energy states, statistical mechanics, and relationship to thermodynamics) and kinetic theory of ionized gases (motion of charged particles, distribution function, collisions, characteristic lengths and times, cross sections, and transport properties). In addition, the course discusses gas surface interactions (thermionic emission, sheaths, and probe theory) and radiation in plasmas and diagnostics.\n",
   "department_numbers": [
     "16"
@@ -34,6 +35,7 @@
     "content": "a5d1e3ba-c175-f478-d128-3fcb5d32bb73",
     "website": "16-55-ionized-gases-fall-2014"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

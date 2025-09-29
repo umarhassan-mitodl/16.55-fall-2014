@@ -5,6 +5,8 @@ description: This resource contains the information regarding kinetic theory. Vl
 file: /courses/16-55-ionized-gases-fall-2014/b7c22c3d68ab558bcc3a59867b710e1a_MIT16_55F14_Lecture8.pdf
 file_size: 189018
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

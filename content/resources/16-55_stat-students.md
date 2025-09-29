@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-55-ionized-gases-fall-2014/26422957ee949e05b59feb98b479b66a_16-55_stat-students.png
 file_size: 2741
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

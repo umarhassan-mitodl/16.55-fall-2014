@@ -4,6 +4,8 @@ description: This resource contains the information regarding Assignment 1.
 file: /courses/16-55-ionized-gases-fall-2014/dbfae92a420cec669b1406af4866b449_MIT16_55F14_Assignment1.pdf
 file_size: 395811
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains the information regarding Boltzmann's H-Theo
 file: /courses/16-55-ionized-gases-fall-2014/939404b24861cd79e4809b09baf83d78_MIT16_55F14_Lecture9.pdf
 file_size: 157834
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
