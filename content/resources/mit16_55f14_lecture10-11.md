@@ -5,8 +5,6 @@ description: This resource contains the information regarding the equilibrium di
 file: /courses/16-55-ionized-gases-fall-2014/989fbd4d29aeec148ff29d6e56419146_MIT16_55F14_Lecture10-11.pdf
 file_size: 927744
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

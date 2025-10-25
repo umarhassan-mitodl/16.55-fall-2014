@@ -5,8 +5,6 @@ description: This resource contains the information regarding probes in the orbi
 file: /courses/16-55-ionized-gases-fall-2014/f53c05597fb5cac840eaa8e88655d5c0_MIT16_55F14_Lecture19.pdf
 file_size: 196904
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

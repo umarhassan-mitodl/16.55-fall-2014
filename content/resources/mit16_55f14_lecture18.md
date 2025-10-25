@@ -5,8 +5,6 @@ description: This resource contains the information regarding electrostatic prob
 file: /courses/16-55-ionized-gases-fall-2014/65f6341fa5cc62bb2755793cbdf4ba4b_MIT16_55F14_Lecture18.pdf
 file_size: 621062
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

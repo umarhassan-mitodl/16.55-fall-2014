@@ -6,8 +6,6 @@ description: This resource contains the information regarding some important res
 file: /courses/16-55-ionized-gases-fall-2014/68877305117df1af0c7b0bffbc5392e5_MIT16_55F14_Lecture22.pdf
 file_size: 169578
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

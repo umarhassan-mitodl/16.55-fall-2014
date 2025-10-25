@@ -6,8 +6,6 @@ description: This resource contains the information regarding semi-thick plasma 
 file: /courses/16-55-ionized-gases-fall-2014/3d0c5f643cd1d062a2b41af733598d47_MIT16_55F14_Lecture25.pdf
 file_size: 243076
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains the information regarding equilibrium in a f
 file: /courses/16-55-ionized-gases-fall-2014/e3b6bdbccb0689734760132e1a5809e4_MIT16_55F14_Lecture12.pdf
 file_size: 299522
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

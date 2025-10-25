@@ -6,8 +6,6 @@ description: This resource contains the information regarding radiation transpor
 file: /courses/16-55-ionized-gases-fall-2014/407cff6b6ec7b488250fcdae76b26e0e_MIT16_55F14_Lecture24.pdf
 file_size: 138063
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
